@@ -6,7 +6,7 @@
             <title>1.1</title>
             <pubDate>Thu, 14 May 2026 16:44:47 +0300</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="ReferenceKeeper.zip" length="924043" type="application/octet-stream"/>
         </item>
