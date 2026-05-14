@@ -3,12 +3,12 @@
     <channel>
         <title>ReferenceKeeper</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Thu, 14 May 2026 16:44:47 +0300</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <title>1.0.2</title>
+            <pubDate>Fri, 15 May 2026 01:50:00 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="ReferenceKeeper.zip" length="924043" type="application/octet-stream"/>
+            <enclosure url="https://drive.usercontent.google.com/download?id=1lrnDArQn5w2wTWwUO3tbUPcaBhoWo_zk&amp;export=download" length="924043" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
