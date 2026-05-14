@@ -8,15 +8,7 @@
             <sparkle:version>1.0.2</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/gamerpaveltut-cmyk/myapp-updates/refs/heads/main/ReferenceKeeper.zip" length="1954773" type="application/octet-stream" sparkle:edSignature="tyqwwnMx2DmRMdNSBYpMVtjDBukKqU/UY5R4NPtdTdeFIbuX2fRRJGuTnXsqthnu6/pI+y6SSzM5LsY+Nzl3AQ=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Thu, 14 May 2026 16:44:47 +0300</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="ReferenceKeeper.zip" length="924043" type="application/octet-stream"/>
+            <enclosure url="https://github.com/gamerpaveltut-cmyk/myapp-updates/releases/download/ReferenceKeeper1.0.2/ReferenceKeeper.zip" length="1954773" type="application/octet-stream" sparkle:edSignature="tyqwwnMx2DmRMdNSBYpMVtjDBukKqU/UY5R4NPtdTdeFIbuX2fRRJGuTnXsqthnu6/pI+y6SSzM5LsY+Nzl3AQ=="/>
         </item>
     </channel>
 </rss>
