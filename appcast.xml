@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ReferenceKeeper</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Thu, 14 May 2026 16:44:47 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://drive.usercontent.google.com/download?id=1lrnDArQn5w2wTWwUO3tbUPcaBhoWo_zk&export=download" length="924043" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
