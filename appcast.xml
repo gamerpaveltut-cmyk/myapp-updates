@@ -3,14 +3,14 @@
     <channel>
         <title>ReferenceKeeper</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Sat, 16 May 2026 01:24:14 +0300</pubDate>
-            <sparkle:version>1.0.4</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.0.5</title>
+            <pubDate>Sat, 16 May 2026 01:33:05 +0300</pubDate>
+            <sparkle:version>1.0.5</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/gamerpaveltut-cmyk/myapp-updates/refs/heads/main/ReferenceKeeper.zip" length="5550984" type="application/octet-stream" sparkle:edSignature="iAE9QGW5Oo9s4DN9baLxFiBmpSfboucOWiD8r7lOYeDS1p1lz7W/xykdIaEAq4JpiyX40P2Gf5MG/3++iLjLCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/gamerpaveltut-cmyk/myapp-updates/refs/heads/main/ReferenceKeeper.zip" length="5550983" type="application/octet-stream" sparkle:edSignature="MCRD+306qqdCzqkjCkO3WrMBglnrnZPIhOBpjmloAUahujNzEjh9O03jFIIUNBl1GTcxzU7FXbhEXHypsx6dAQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/gamerpaveltut-cmyk/myapp-updates/refs/heads/main/ReferenceKeeper1.0.4-1.delta" sparkle:deltaFrom="1" length="2195390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cfFqkseau59Syj6M3G69Kgl7bbtTmkgGoNXDhmq3IeYBUWAkwqLDwWzHoPcXV1NhEiP2HZcr5X+0ddzU8NSHBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/gamerpaveltut-cmyk/myapp-updates/refs/heads/main/ReferenceKeeper1.0.5-1.delta" sparkle:deltaFrom="1" length="2195422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gldpuamE3JgKcbGeM4qjRNjOENudE+o4mYG3ilzVukk4AzwWTW9nbnd8iskR5lmk0FRm2nh1whNg+AnDW7NXDQ=="/>
             </sparkle:deltas>
         </item>
         <item>
