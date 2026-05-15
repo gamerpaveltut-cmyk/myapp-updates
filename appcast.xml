@@ -3,12 +3,31 @@
     <channel>
         <title>ReferenceKeeper</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Fri, 15 May 2026 20:26:22 +0300</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/gamerpaveltut-cmyk/myapp-updates/releases/download/1.0.3/ReferenceKeeper.zip" length="5511254" type="application/octet-stream" sparkle:edSignature="L5pK5X48xvq/lQdIsej0oJVX1AdMvXxfRYhBvJ1KZnI9IzL/Ros53PSvT40y5RMHIz7IQ8WonlMLQTfUeP/LCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/gamerpaveltut-cmyk/myapp-updates/refs/heads/main/ReferenceKeeper1.0.3-1.delta" sparkle:deltaFrom="1" length="2128782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5P0+U0RFdUpUq0gKffF/jdBBd9xaNXCW4HPNiLWFzlXncUHfG7ucYIuaFH/xLiQ99rYSDAAKkrft53bXUG9ODQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Fri, 15 May 2026 01:53:39 +0300</pubDate>
             <sparkle:version>1.0.2</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/gamerpaveltut-cmyk/myapp-updates/releases/download/ReferenceKeeper1.0.2/ReferenceKeeper.zip" length="1954773" type="application/octet-stream" sparkle:edSignature="tyqwwnMx2DmRMdNSBYpMVtjDBukKqU/UY5R4NPtdTdeFIbuX2fRRJGuTnXsqthnu6/pI+y6SSzM5LsY+Nzl3AQ=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 15 May 2026 02:30:57 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/gamerpaveltut-cmyk/myapp-updates/refs/heads/main/ReferenceKeeper%201.0.1.zip" length="1955050" type="application/octet-stream" sparkle:edSignature="FkwKYIGePjeybk2RazdnqcqXiIGUTvP2KEcW6MPStTolKQYeh8d4+TUHvg/X9pQLPRym0WhlJPdNUgF7efdxCg=="/>
         </item>
     </channel>
 </rss>
