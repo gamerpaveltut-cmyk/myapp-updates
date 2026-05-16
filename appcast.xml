@@ -5,7 +5,7 @@
         <item>
             <title>1.1.2</title>
             <pubDate>Sat, 16 May 2026 03:44:49 +0300</pubDate>
-            <sparkle:version>1.0.9</sparkle:version>
+            <sparkle:version>1.0.10</sparkle:version>
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/gamerpaveltut-cmyk/myapp-updates/releases/download/1.1.2/ReferenceKeeper.zip" length="5550980" type="application/octet-stream" sparkle:edSignature="r7DGi4JIb0a2ftP2+OSLZ+R1SgNF4r4Ey9assiljzjgAPQlVYlm28GNYS65EjODBKP7K10JMIXgzQoqX13t5Ag=="/>
