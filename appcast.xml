@@ -8,7 +8,7 @@
             <sparkle:version>1.1.10</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/gamerpaveltut-cmyk/myapp-updates/archive/refs/tags/1.1.1.zip" length="5550980" type="application/octet-stream" sparkle:edSignature="plrB/oDT7fcuYlLaRADFQqsl+TBEREjUjdkruWx9aX+fjTnW6HeTl/TNTbS9tzEXdhWMa9VV8RAGHB+hK5vSBg=="/>
+            <enclosure url="https://github.com/gamerpaveltut-cmyk/myapp-updates/releases/download/10/ReferenceKeeper.zip" length="5550980" type="application/octet-stream" sparkle:edSignature="plrB/oDT7fcuYlLaRADFQqsl+TBEREjUjdkruWx9aX+fjTnW6HeTl/TNTbS9tzEXdhWMa9VV8RAGHB+hK5vSBg=="/>
         </item>
     </channel>
 </rss>
