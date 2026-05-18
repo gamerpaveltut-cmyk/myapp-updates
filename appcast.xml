@@ -3,12 +3,12 @@
     <channel>
         <title>ReferenceKeeper</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Sat, 16 May 2026 14:05:57 +0300</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Tue, 19 May 2026 00:09:21 +0300</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/gamerpaveltut-cmyk/myapp-updates/releases/download/1.1.1/ReferenceKeeper.zip" length="5550979" type="application/octet-stream" sparkle:edSignature="UYk1AJS++XzWtlFmLn9NnzPeBVc+/F64eN87eeMTZX8MIGVNW8ukbrbQnYZmuPU1QC0xDa1bk9iOUAqnMdMrBA=="/>
+            <enclosure url="https://github.com/gamerpaveltut-cmyk/myapp-updates/releases/download/1.0.4/ReferenceKeeper.zip" length="5781054" type="application/octet-stream" sparkle:edSignature="YXhdBWIHVu1HzglsynnjOnTo3e+gGm+ZiwIA8efAthiJ2UGNPMOisedkJmuoxw9mdqpUzKxxDWNigJBJgHtLBw=="/>
         </item>
     </channel>
 </rss>
